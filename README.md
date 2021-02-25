@@ -1,4 +1,4 @@
-# flutter_ClubHouse
+# flutter_Ticket Booking App
 
 可以的话，大家可否点个Star
 
@@ -14,7 +14,7 @@
 
 # 项目简介
 
-“Clubhouse”（俱乐部会馆）的音频聊天应用程序日前火了。这款社交软件的功能相对单一或者说“独特”：一群人线上通话，另一群人听。不过，Clubhouse聊天内容不受限，而且只能受邀才能加入，因此备受职业人士和精英阶层的追捧。有媒体称，它是将现实世界的精英主义搬到了虚拟世界。于是，借此契机，个人打算用flutter开发一款类似聊天软件，欢迎大家关注，一键三连。
+“Ticket Booking App”是在看到Clubhouse反响不错的基础上，才有了动力，给大家继续更新的飞机订票系统，欢迎大家关注，一键三连。
 
 github地址[https://github.com/ITmxs/ClubHouse](https://github.com/ITmxs/ClubHouse)
 
@@ -22,16 +22,12 @@ github地址[https://github.com/ITmxs/ClubHouse](https://github.com/ITmxs/ClubHo
 
 视频订阅地址哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
-## 2021.2.23日Flutter实战之（Clubhouse App第1部分）
+## 2021.3.4日Flutter实战之（Ticket Booking App Part 1）
 
-[https://www.bilibili.com/video/BV1vy4y1J7G3](https://www.bilibili.com/video/BV1vy4y1J7G3)
 
-## 2021.2.24日Flutter实战之（Clubhouse App第2部分）
 
-https://www.bilibili.com/video/BV13N41197Jd
-## 2021.2.24日Flutter实战之（Clubhouse App第3部分）
+## 2021.3.5日Flutter实战之（Ticket Booking App Part 2）
 
-https://www.bilibili.com/video/BV1jh411k7TD
 
 
 
